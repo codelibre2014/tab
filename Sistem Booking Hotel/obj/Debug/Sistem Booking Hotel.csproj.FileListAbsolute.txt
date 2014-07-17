@@ -1,0 +1,57 @@
+D:\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Login.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Properties.Resources.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csproj.GenerateResource.Cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.pdb
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.FormUtama.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.pdb
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.FormUtama.resources
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Login.resources
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Properties.Resources.resources
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csproj.GenerateResource.Cache
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+D:\ProjekKantor\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+F:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+F:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+F:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.pdb
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.FormUtama.resources
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Login.resources
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Properties.Resources.resources
+K:\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csproj.GenerateResource.Cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.pdb
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.FormUtama.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Login.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Properties.Resources.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Irwan\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csproj.GenerateResource.Cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe.config
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.pdb
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.exe
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\bin\Debug\Sistem Booking Hotel.pdb
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.FormUtama.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Login.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.Properties.Resources.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem Booking Hotel.csproj.GenerateResource.Cache
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.DataKamar.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.HapusKamar.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.kamar_Ubah_Hapus.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.TambahKamar.resources
+C:\Users\Kunto\Downloads\Work related\tabhotel_v4\Integrated\Sistem Booking Hotel\Sistem Booking Hotel\obj\Debug\Sistem_Booking_Hotel.UbahKamar.resources
