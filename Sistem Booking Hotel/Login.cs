@@ -86,7 +86,7 @@ namespace Sistem_Booking_Hotel
                 FormUtama.Show();
             }
              */
-            if (cekNilai > 1)
+            if (cekNilai != 3)
             {
                 //string admin = "staff";
                 FormUtama FormUtama = new FormUtama();
@@ -95,7 +95,7 @@ namespace Sistem_Booking_Hotel
                 this.Hide();
             }
 
-            else if (cekNilai == 1)
+            else if (cekNilai == 3)
             {
 
                 //AdminForm administratorForm = new AdminForm();

@@ -106,6 +106,7 @@
             this.inputIdentitas.Name = "inputIdentitas";
             this.inputIdentitas.Size = new System.Drawing.Size(130, 22);
             this.inputIdentitas.TabIndex = 5;
+            this.inputIdentitas.Text = "admin";
             // 
             // inputSandi
             // 
@@ -115,6 +116,7 @@
             this.inputSandi.PasswordChar = '*';
             this.inputSandi.Size = new System.Drawing.Size(130, 22);
             this.inputSandi.TabIndex = 6;
+            this.inputSandi.Text = "admin";
             this.inputSandi.Enter += new System.EventHandler(this.inputSandi_Enter);
             // 
             // Login

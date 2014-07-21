@@ -24,15 +24,16 @@ namespace Sistem_Booking_Hotel
         }
 
         int x = 0;
+        configconn koneksi = new configconn();
         public void refresh_kamar()
         {
-            configconn.conn.Open();
-            SqlCommand cmd = new SqlCommand((@"select count(*) from Kamar"), configconn.conn);
+            //configconn.conn.Open();
+            SqlCommand cmd = new SqlCommand((@"select count(*) from Kamar"), koneksi.KoneksiDB());
             int jumKamar = (int)cmd.ExecuteScalar();
 
             ///button1.Text = jumKamar.ToString();
             Button[] Kamar;
-            cmd = new SqlCommand("select kamar_no from Kamar", configconn.conn);
+            cmd = new SqlCommand("select kamar_no from Kamar", koneksi.KoneksiDB());
             reader = cmd.ExecuteReader();
             Kamar = new Button[jumKamar+1];
             x = 0;
@@ -66,7 +67,7 @@ namespace Sistem_Booking_Hotel
             Kamar[x].Click += new EventHandler(tambah_Kamar);
             flowLayoutPanel1.Controls.Add(Kamar[x]);
             //conn.Close();
-            configconn.conn.Close();
+            koneksi.KoneksiDB().Close();
         }
         //kamar_Ubah_Hapus loadUbahHapus = new kamar_Ubah_Hapus();
         protected void load_Ubah_Hapus(object sender, EventArgs e)
@@ -256,6 +257,11 @@ namespace Sistem_Booking_Hotel
         {
             HapusKamar hapusKamar = new HapusKamar();
             hapusKamar.Show();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+            //refresh_kamar();
         }
         
     }
